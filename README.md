@@ -65,3 +65,10 @@ Potential of high-spending customers
 Top-performing Products(Sales Bucketing)
 
 Enabled data-driven decision-making through visual insights
+
+Contact:
+
+If you have any questions or feedback, feel free to reach out:
+
+Email: jaymmanval2000@gmail.com
+GitHub: github.com/jaymanval2000
